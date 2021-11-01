@@ -30,7 +30,6 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - Flexbox
-- CSS Grid
 - Responsive Web Design
 
 ### Useful resources
