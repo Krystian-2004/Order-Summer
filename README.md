@@ -39,5 +39,5 @@ Users should be able to:
 
 ## Author
 
-- Code by - [@Krystian-2004]()
-- Frontend Mentor - [@yKrystian-2004](https://www.frontendmentor.io/profile/Krystian-2004)
+- Code by - [@Krystian-2004](https://github.com/Krystian-2004)
+- Frontend Mentor - [@Krystian-2004](https://www.frontendmentor.io/profile/Krystian-2004)
