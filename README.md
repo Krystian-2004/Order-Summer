@@ -39,5 +39,5 @@ Users should be able to:
 
 ## Author
 
-- Code by - [Krystian aka KOMORNIK.PL](KOMORNIK#6317)
+- Code by - [Krystian-2004]()
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
