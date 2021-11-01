@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![design/screenshot.PNG](./design/screenshot.png)
+![Screenshot](https://github.com/Krystian-2004/Order-Summer/blob/main/design/screenshot.PNG)
 
 ## My process
 
@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [css generator](https://cssgenerator.pl) - This helps me with choosing different values ​​for css
+- [css generator](https://cssgenerator.pl) - This helps me with choosing different values for css
 
 ## Author
 
